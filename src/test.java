@@ -7,5 +7,6 @@ public class test {
         System.out.println("lol");
         System.out.println("EBOLA");
         System.out.println("Kardash die shit werkt lan!");
+        System.out.println("ja kardash");
     }
 }
