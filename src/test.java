@@ -3,6 +3,7 @@
  */
 public class test {
     public static void main(String[] args) {
-        Sysyem.out.println("Dit is een testje");
+        System.out.println("Dit is een testje testje");
+        System.out.println("lol");
     }
 }
